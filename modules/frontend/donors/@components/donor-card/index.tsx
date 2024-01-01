@@ -10,7 +10,7 @@ const DonorCard = ({ data }: any) => {
     >
       <div>
         <Image
-          src="/images/misc/donors-icon.png.png"
+          src={data?.imgSrc}
           alt="Blog Card"
           width={270}
           height={182}
@@ -25,6 +25,13 @@ const DonorCard = ({ data }: any) => {
           <p className="mb-0 line-clamp-2 p-small">
             Profession: {data?.profession}
           </p>
+          <p className="mb-0 line-clamp-2 p-small">
+            Company Name: {data?.companyName}
+          </p>
+          <p className="mb-0 line-clamp-2 p-small">
+            Designation: {data?.designation}
+          </p>
+          <p className="mb-0 line-clamp-2 p-small">Address: {data?.address}</p>
         </div>
       </div>
     </Link>
