@@ -68,7 +68,7 @@ const Header = () => {
                 />
               </Link> */}
               <Link href="/">
-                <h1 className="mb-0">AL Amin</h1>
+                <h1 className="mb-0">Logo</h1>
               </Link>
             </div>
             {navData && navData?.length > 0 && (
@@ -191,7 +191,7 @@ const Header = () => {
               <Fragment>
                 <div className="flex items-center gap-3">
                   <Link href="/signup" className="btn btn-primary rounded">
-                    Register / Login
+                    Login
                   </Link>
                 </div>
               </Fragment>

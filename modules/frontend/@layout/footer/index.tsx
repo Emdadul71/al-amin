@@ -8,7 +8,7 @@ import { FiPhoneCall } from "react-icons/fi";
 import { HiOutlineMapPin, HiOutlinePrinter } from "react-icons/hi2";
 import TextExpander from "../../@common/text-expander";
 
-const footerText = ` An Islamic NGO is a philanthropic organization guided by Islamic principles, dedicated to humanitarian aid, community development, and social welfare. It aims to uplift marginalized populations, provide education, healthcare, and disaster relief, adhering to Islamic ethics and values while fostering sustainable change and promoting justice and equality.`;
+const footerText = `"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget mauris quis velit molestie mattis. Sed auctor urna eget felis convallis, sit amet tempor elit dapibus. Nunc aliquam justo id magna vestibulum, vitae ultrices metus finibus. Vivamus malesuada ligula sit amet justo fringilla, in convallis justo accumsan.`;
 
 const Footer = () => {
   // const init = 150;
@@ -33,7 +33,7 @@ const Footer = () => {
             </Link> */}
 
             <Link href="/" className="inline-block mb-4">
-              <h1 className="mb-0 text-white">AL Amin</h1>
+              <h1 className="mb-0 text-white">Logo</h1>
             </Link>
 
             <div className=" text-grey mb-8">
