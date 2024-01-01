@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Home",
+    "link": "/"
+  },
+  {
+    "title": "Quran",
+    "link": "/quran"
+  },
+  {
+    "title": "Hadis",
+    "link": "/hadis"
+  },
+  {
+    "title": "Salah",
+    "link": "/salah"
+  },
+  {
+    "title": "iWall",
+    "link": "/i-wall"
+  },
+  {
+    "title": "Donors",
+    "link": "/donors"
+  },
+  {
+    "title": "Social Activitis",
+    "link": "/social-activities"
+  },
+  {
+    "title": "About Us",
+    "link": "/about-us"
+  }
+]
